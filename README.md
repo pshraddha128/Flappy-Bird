@@ -27,3 +27,8 @@ Spacebar: Make the bird jump.
 - Pipe Generation: Pipes are randomly generated, creating new challenges for the player.
 - Score Tracking: The game keeps track of the player's score.
 - Sound Effects and Music: Various sound effects and background music enhance the gaming experience.
+
+
+### Visuals
+![Screenshot 2024-02-21 115758](https://github.com/pshraddha128/Flappy-Bird/assets/143784340/1d1f3225-a9c1-4c98-b184-fb0f63e37a1c)
+
