@@ -30,5 +30,8 @@ Spacebar: Make the bird jump.
 
 
 ### Visuals
+![Screenshot 2024-05-12 092915](https://github.com/pshraddha128/Flappy-Bird/assets/143784340/ae8e8710-691a-47c7-a35c-8c2bf2c55ee9)
+
+
 ![Screenshot 2024-02-21 115758](https://github.com/pshraddha128/Flappy-Bird/assets/143784340/1d1f3225-a9c1-4c98-b184-fb0f63e37a1c)
 
